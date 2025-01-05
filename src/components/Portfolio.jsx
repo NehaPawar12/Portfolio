@@ -22,7 +22,7 @@ const Portfolio = () => {
             id: 3,
             src: buyhive,
             codeLink: 'https://github.com/NehaPawar12/BuyHive',
-            // demoLink: 'https://buyhive-demo.com',
+            demoLink: 'https://drive.google.com/file/d/1A7yT0azTdmWjO3DxNn-TRYiIk_WijUaM/view?usp=sharing',
         },
     ];
 
