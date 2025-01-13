@@ -1,7 +1,7 @@
 import React from 'react';
 
 import notehive from '../assets/portfolio/notehive.png';
-import techbrain from '../assets/portfolio/techbrain.jpg';
+import linkup from '../assets/portfolio/linkup.png';
 import buyhive from '../assets/portfolio/buyhive.png';
 
 const Portfolio = () => {
@@ -14,9 +14,9 @@ const Portfolio = () => {
         },
         {
             id: 2,
-            src: techbrain,
-            codeLink: 'https://github.com/NehaPawar12/TechBrain',
-            // demoLink: 'https://techbrain-demo.com',
+            src: linkup,
+            codeLink: 'https://github.com/NehaPawar12/LinkUp',
+            demoLink: 'https://linkup-nor5.onrender.com',
         },
         {
             id: 3,
