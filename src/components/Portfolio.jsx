@@ -1,16 +1,16 @@
 import React from 'react';
 
-import notehive from '../assets/portfolio/notehive.png';
 import linkup from '../assets/portfolio/linkup.png';
 import buyhive from '../assets/portfolio/buyhive.png';
+import devly from '../assets/portfolio/devly.png'
 
 const Portfolio = () => {
     const portfolios = [
         {
             id: 1,
-            src: notehive,
-            codeLink: 'https://github.com/NehaPawar12/NoteHive',
-            // demoLink: 'https://notehive-demo.com',
+            src: devly,
+            codeLink: 'https://github.com/NehaPawar12/Devly',
+            demoLink: 'https://devly-4rju.onrender.com',
         },
         {
             id: 2,

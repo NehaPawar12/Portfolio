@@ -7,6 +7,9 @@ import tailwindimg from '../assets/tailwind.png'
 import kotlinimg from '../assets/Kotlin.png'
 import mysqlimg from '../assets/MySQL.png'
 import cpp from '../assets/cpp.png'
+import js from '../assets/JavaScript.png'
+import nodejs from '../assets/Node.js.png'
+import vite from '../assets/Vite.js.png'
 
 
 const Experience = () => {
@@ -58,6 +61,24 @@ const Experience = () => {
             src: cpp,
             title: 'C++',
             style: 'shadow-sky-800',
+        },
+        {
+            id: 9,
+            src: js,
+            title: 'JavaScript',
+            style: 'shadow-yellow-200',
+        },
+        {
+            id: 10,
+            src: nodejs,
+            title: 'Node.js',
+            style: 'shadow-green-400',
+        },
+        {
+            id: 11,
+            src: vite,
+            title: 'Vite',
+            style: 'shadow-purple-800',
         },
     ];
 
