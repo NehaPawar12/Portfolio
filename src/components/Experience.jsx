@@ -4,12 +4,10 @@ import cssimg from '../assets/css.png'
 import github from '../assets/github.png'
 import reactImage from '../assets/react.png'
 import tailwindimg from '../assets/tailwind.png'
-import kotlinimg from '../assets/Kotlin.png'
 import mysqlimg from '../assets/MySQL.png'
 import cpp from '../assets/cpp.png'
 import js from '../assets/JavaScript.png'
 import nodejs from '../assets/Node.js.png'
-import vite from '../assets/Vite.js.png'
 
 
 const Experience = () => {
@@ -44,42 +42,32 @@ const Experience = () => {
             title: 'GITHUB',
             style: 'shadow-gray-400',
         },
+        
         {
             id: 6,
-            src: kotlinimg,
-            title: 'Kotlin',
-            style: 'shadow-violet-400',
-        },
-        {
-            id: 7,
             src: mysqlimg,
             title: 'MYSQL',
             style: 'shadow-blue-900',
         },
         {
-            id: 8,
+            id: 7,
             src: cpp,
             title: 'C++',
             style: 'shadow-sky-800',
         },
         {
-            id: 9,
+            id: 8,
             src: js,
             title: 'JavaScript',
             style: 'shadow-yellow-200',
         },
         {
-            id: 10,
+            id: 9,
             src: nodejs,
             title: 'Node.js',
             style: 'shadow-green-400',
         },
-        {
-            id: 11,
-            src: vite,
-            title: 'Vite',
-            style: 'shadow-purple-800',
-        },
+        
     ];
 
     return (
