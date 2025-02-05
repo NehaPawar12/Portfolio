@@ -1,8 +1,8 @@
 import React from 'react';
 
-import linkup from '../assets/portfolio/linkup.jpg';
-import buyhive from '../assets/portfolio/buyhive.jpg';
-import devly from '../assets/portfolio/devly.jpg';
+import linkup from '../assets/portfolio/linkup.png';
+import buyhive from '../assets/portfolio/buyhive.png';
+import devly from '../assets/portfolio/devly.png'
 
 const Portfolio = () => {
     const portfolios = [
